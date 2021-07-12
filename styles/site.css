@@ -1,0 +1,63 @@
+﻿html {
+    font-size: 65%;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #B7F5FA;
+}
+
+body {
+    margin: 0;
+    font-size: 1.8rem;
+}
+
+.container {
+    padding: 0 1rem;
+    max-width: 94rem;
+    margin: 0 auto;
+}
+
+nav {
+    background-color: #FF8FF7;
+    line-height: 6rem;
+    font-size: 1.7rem;
+}
+
+    nav a {
+        color: #CA85C4;
+        padding: 1rem;
+    }
+
+h1 {
+    font-size: 4rem;
+    letter-spacing: -1px;
+    margin: 1em 0 .25em 0;
+}
+
+h2 {
+    font-size: 4rem;
+    letter-spacing: -1px;
+    margin: 1em 0 .25em 0;
+}
+
+h3 {
+    font-size: 4rem;
+    letter-spacing: -1px;
+    margin: 1em 0 .25em 0;
+}
+
+h4 {
+    font-size: 4rem;
+    letter-spacing: -1px;
+    margin: 1em 0 .25em 0;
+}
+
+h5 {
+    font-size: 4rem;
+    letter-spacing: -1px;
+    margin: 1em 0 .25em 0;
+}
+
+h6 {
+    font-size: 4rem;
+    letter-spacing: -1px;
+    margin: 1em 0 .25em 0;
+}
